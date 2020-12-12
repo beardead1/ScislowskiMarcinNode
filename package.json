@@ -1,0 +1,14 @@
+{
+  "name": "laboratorium",
+  "version": "1.0.0",
+  "description": "Laboratorium z Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcin Ścisłowski",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-random-string": "^3.3.0"
+  }
+}
